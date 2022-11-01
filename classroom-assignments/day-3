@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <nav>
+        <header>
+            <h2>Encyclopedia website</h2>
+        </header>
+        <div>
+            <a href="anchor-html-entities.html"> HOME</a>&nbsp;&nbsp;
+            <a href="Animals.html"> Animals</a>&nbsp;&nbsp;
+            <a href="ol.html"> Cricketers</a>&nbsp;&nbsp;
+            <a href="ul.html"> fruits</a>&nbsp;&nbsp;
+            <a href="Wikipedia.html"> Wikipedia</a>
+        </div>
+    </nav>
+    <hr>
+    <main>
+        <h2>Welcome to the Encyclopedia!</h2>
+        <section>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic, quis aut libero cumque ullam eaque
+                excepturi
+                ad debitis in accusamus fuga mollitia animi voluptatum omnis, perspiciatis provident quaerat neque
+                voluptate
+                minus aliquid? Eum rerum quis eligendi a, eaque nihil nemo rem deserunt voluptatibus laborum iure omnis
+                ad
+                molestias sequi fugit?</p>
+
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quo porro temporibus esse modi nam ex labore
+                veniam
+                cumque unde repellendus, molestiae consequuntur nesciunt at laudantium incidunt ullam reprehenderit
+                praesentium veritatis dolore mollitia? Nesciunt soluta veritatis assumenda, fugit illo voluptates
+                explicabo
+                recusandae repudiandae perspiciatis delectus, necessitatibus inventore cumque sunt reiciendis quas.</p>
+        </section>
+        <section>
+            <h3>Our Gallery</h3>
+            <img src="https://www.unesco.org/sites/default/files/styles/paragraph_medium_desktop/public/2022-05/shutterstock_1922200124.jpg?itok=n6PJkZSc" width="400" height="300">
+            <img src="https://images.unsplash.com/photo-1533749871411-5e21e14bcc7d?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTN8NDMwNTQ1N3x8ZW58MHx8fHw%3D&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60" width="400" height="300">
+             
+        </section>
+        <ol>
+            <li>Best site</li>
+            <li>Great content</li>
+            <li>Upto date</li>
+            <li>Free for ever</li>
+        </ol>
+    </main>
+    <hr>
+    <footer>
+        <section>
+            © All rights reserved 2022
+        </section>
+        <br>
+        <section>
+            <nav>
+                <a target="_blank" href="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf">
+                    Privacy
+                    policy</a>&nbsp;&nbsp;|&nbsp;
+                <a href="Terms&amp;conditions.html"> Terms and conditions</a>&nbsp;&nbsp;|&nbsp;
+                <a href="cookies.html"> Cookies policy</a>
+            </nav>
+        </section>
+    </footer>
+
+
+</body></html>
